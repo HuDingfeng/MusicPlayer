@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6426F56-2E8F-48D5-8780-2A54E7C994A3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AudioTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0D4812DCCA309DE81418C74EC4B39D2074B0C7F0</key>
+		<string>https://github.com/HuDingfeng/hdf-audio</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AudioTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0D4812DCCA309DE81418C74EC4B39D2074B0C7F0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HuDingfeng/hdf-audio</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0D4812DCCA309DE81418C74EC4B39D2074B0C7F0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D4812DCCA309DE81418C74EC4B39D2074B0C7F0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hdf-audio</string>
+		</dict>
+	</array>
+</dict>
+</plist>
